@@ -161,12 +161,18 @@ img {
         margin-bottom: 70px;
     }
 
+    .steps{
+        margin: 3em 0 0 0 ;
+    }
+
     .steps .col {
         width: 100%;
     }
 
     .why-us{
         background-color: #222222;
+        margin-bottom: 0;
+        padding: 50px 0;
     }
 
     .why-us h2{
