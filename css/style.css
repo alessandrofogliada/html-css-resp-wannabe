@@ -153,7 +153,11 @@ img {
         justify-content: center;
     }
 
-    .lessons .col {
+    .lessons .col ,
+    .steps .col , 
+    .why-us .col-left ,
+    .why-us .col-right
+     {
         width: 100%;
     }
 
@@ -165,10 +169,6 @@ img {
         margin: 3em 0 0 0 ;
     }
 
-    .steps .col {
-        width: 100%;
-    }
-
     .why-us{
         background-color: #222222;
         margin-bottom: 0;
@@ -177,14 +177,6 @@ img {
 
     .why-us h2{
         width: 99%;
-    }
-
-    .why-us .col-left {
-        width: 100%;
-    }
-
-    .why-us .col-right {
-        width: 100%;
     }
 
     .why-us .col-left img{
